@@ -1,9 +1,4 @@
-# GA-for-MOO
-
-Genetic Algorithms for Multi Objective Optimization
-
-
-# GraphsLib
+# Genetic Algorithms for Multi Objective Optimization
 
 By [Stavros Kalaouzis](https://github.com/skalaouzis).
 
@@ -11,11 +6,11 @@ By [Stavros Kalaouzis](https://github.com/skalaouzis).
 
 ## Information
 
-A Library of useful algorithms for C programming to make your applications simple to understand and easy to use. 
+A Library of useful algorithms for C/C++, Python and Matlab programming to make your applications simple to understand and easy to use. 
 
 ## Algorithms
 
-* [MDB](https://github.com/skalaouzis/GraphsLib/blob/master/MDB) : This program accesses the BugTypes.mdb database, creates a dataset, adds the tables to it, and displays the number of tables, columns, and rows. It also displays the titles of each row.
+* [PAES](https://github.com/skalaouzis/GA-for-MOO/blob/master/PAES.py) : The pareto archived evolution strategy is GA for MOO in Python
 
 * [PolynomialRoot_NewtonMethod](https://github.com/skalaouzis/GraphsLib/blob/master/PolynomialRoot_NewtonMethod.cpp) :  is a method for finding successively better approximations to the roots (or zeroes) of a real-valued function
 
