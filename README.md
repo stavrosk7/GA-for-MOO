@@ -10,18 +10,11 @@ A Library of useful algorithms for C/C++, Python and Matlab programming to make 
 
 ## Algorithms
 
-* [PAES](https://github.com/skalaouzis/GA-for-MOO/blob/master/PAES.py) : The pareto archived evolution strategy is GA for MOO in Python
+* [PAES](https://github.com/skalaouzis/GA-for-MOO/blob/master/PAES.py) : The pareto archived evolution strategy is GA for MOO in Python.
 
-* [PolynomialRoot_NewtonMethod](https://github.com/skalaouzis/GraphsLib/blob/master/PolynomialRoot_NewtonMethod.cpp) :  is a method for finding successively better approximations to the roots (or zeroes) of a real-valued function
+* [PortfolioOptimization](https://github.com/skalaouzis/GA-for-MOO/blob/master/PortfolioOptimization.m) :  The PortfolioOptimization is GA for MOO (Portfolio Optimization) in Matlab.
 
-* [ReadFile](https://github.com/skalaouzis/GraphsLib/blob/master/ReadFile.cpp) : read a file in c
-
-* [dijkstra](https://github.com/skalaouzis/GraphsLib/blob/master/dijkstra.cpp) : shorthest path in the DAG
-
-* [factorial](https://github.com/skalaouzis/GraphsLib/blob/master/factorial.cpp) : the factorial of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n
-
-* [quicksort](https://github.com/skalaouzis/GraphsLib/blob/master/quicksort.cpp) : Quicksort is an efficient sorting algorithm, serving as a systematic method for placing the elements of an array in order. Developed by Tony Hoare in 1959
-
+* [SJF Algorithm](https://github.com/skalaouzis/GA-for-MOO/blob/master/SJF_Algorithm.c) : The SJF Algorithm is GA for MOO (Scheduling) in C.
 
 
 ## Support
