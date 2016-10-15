@@ -2,6 +2,7 @@ from random import Random
 from time import time
 import inspyred
 
+
 def main(prng=None, display=False):
     if prng is None:
         prng = Random()
