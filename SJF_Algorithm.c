@@ -1,4 +1,4 @@
-//Program for Shortest Job First (SJF) Scheduling Algorithm
+//Program for Shortest Job First (SJF) Scheduling Algorithm_
 #include&lt;stdio.h&gt;
  
 int main()
