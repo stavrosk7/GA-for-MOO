@@ -1,6 +1,6 @@
 # Genetic Algorithms for Multi Objective Optimization
  
-By [Stavros Kalaouzis](https://github.com/skalaouzis).
+By [Stavros](https://github.com/skalaouzis).
 
      
 
